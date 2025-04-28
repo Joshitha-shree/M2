@@ -1,3 +1,5 @@
+NAME : JOSHITHASHREE BS
+REG NO: 212224230107
 # EX-06 - Looping
 ## AIM:
 Write a C program to print even numbers ranging from M to N (including M and N values).
@@ -12,17 +14,12 @@ Write a C program to print even numbers ranging from M to N (including M and N v
 7.	Continue the loop until you have iterated through all numbers from M to N.
 
 ## PROGRAM:
+![image](https://github.com/user-attachments/assets/e8c8bc41-7616-46d4-a94b-ddbe4a03ef47)
+## INPUT:
+![image](https://github.com/user-attachments/assets/50941b10-6e7d-407c-8d30-be68ec22fb8c)
 
 ## OUTPUT:
-
-
-
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/6a41abaf-25ac-448d-8797-69bdb465c42e)
 
 ## RESULT:
 Thus the program to print even numbers ranging from M to N (including M and N values) has been executed successfully
@@ -45,13 +42,12 @@ Write a C program to print the given triangular pattern using loop.
 5.	Continue the loop until you have printed the entire triangular pattern.
 
 ## PROGRAM:
-
+![image](https://github.com/user-attachments/assets/329068d2-6764-4fcc-a09a-a799ac9f3ffb)
+## INPUT:
+![image](https://github.com/user-attachments/assets/c80991e6-4daf-4497-be2d-660eb21c25e4)
 
 ## OUTPUT:
-
-
-
-
+![image](https://github.com/user-attachments/assets/5bf20aee-e013-4420-91b5-778d01f6061e)
 
 ## RESULT:
 
@@ -74,14 +70,12 @@ Write a C program to perform addition and subtraction of two numbers using funct
 4.	Call the addition and subtraction functions, passing the two numbers as arguments.
 
 ## PROGRAM:
-
+![image](https://github.com/user-attachments/assets/37ab2b65-c9ba-4a09-a73e-2dca4a3826c7)
+## INPUT:
+![image](https://github.com/user-attachments/assets/3aa96366-0f1a-4735-936e-49e0d2e1b5a7)
 
 ## OUTPUT:
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/6c622701-5c61-46b6-8a6c-e62b9cde07c7)
 
 ## RESULT:
 
@@ -106,12 +100,13 @@ Write a c program to find the sum of odd digits using for loop
 6.	Print the sum of odd digits.
 
 ## PROGRAM:
+![image](https://github.com/user-attachments/assets/00f35bab-d0a1-47a7-af10-c7efadb1ae10)
 
+## INPUT:
+![image](https://github.com/user-attachments/assets/9d52b2c5-5363-4544-8d4a-5439da88619d)
 
 ## OUTPUT:
-
-
-
+![image](https://github.com/user-attachments/assets/52d8a0a3-385e-47a8-bd9b-ba14f5bd9809)
 
 ## RESULT:
 
@@ -136,9 +131,16 @@ d.	After the loop, print the factorial value.
 5.	End
 
 ## PROGRAM:
+![image](https://github.com/user-attachments/assets/d2156563-5498-4464-9481-3d896e34868a)
+
+## INPUT:
+![image](https://github.com/user-attachments/assets/a5bccc14-2b31-442e-b2a5-efb6e7336de9)
+
 
 
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/562b477c-09b9-4821-991c-aac80161a9f8)
+
 
 ## RESULT:
 The program correctly computes the factorial of a given number using a separate function and displays the result.
